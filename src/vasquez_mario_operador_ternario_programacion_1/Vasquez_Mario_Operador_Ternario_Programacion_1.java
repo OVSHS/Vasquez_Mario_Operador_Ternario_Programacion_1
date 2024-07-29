@@ -58,7 +58,7 @@ public class Vasquez_Mario_Operador_Ternario_Programacion_1 {
         System.out.println("Ingrese el ancho: ");
         double ancho = lea.nextDouble();
         double area = largo>0 && ancho>0 ? largo * ancho : 0;
-        System.out.println("El area de un triangulo es: " + area);
+        System.out.println("El area de un rectangulo es: " + area);
         
       
     }
